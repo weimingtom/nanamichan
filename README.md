@@ -12,3 +12,4 @@ Image board based on GazouBBS and Futaba
 * https://bitbucket.org/nanaya1/moebooru  
 * https://github.com/Wachhund/myimouto  
 * https://github.com/Yushe/myimouto-plus  
+* http://cn.piwigo.org  
